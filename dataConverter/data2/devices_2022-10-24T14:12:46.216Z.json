@@ -1,0 +1,182 @@
+{
+  "cords": {
+    "x": 6,
+    "y": 2.5
+  },
+  "date": "2022-10-24T14:12:46.216Z",
+  "wifiDevices": [
+    {
+      "mac": "70:0B:01:AD:74:D5",
+      "channel": 108,
+      "rssi": -45,
+      "ssid": "Orange_Swiatlowod_74D0"
+    },
+    {
+      "mac": "92:5C:14:9A:F4:11",
+      "channel": 10,
+      "rssi": -77,
+      "ssid": "Wi-Free #InternetUPCNajszybszy"
+    },
+    {
+      "mac": "90:5C:44:9A:F4:11",
+      "channel": 10,
+      "rssi": -76,
+      "ssid": "UPC39863FE"
+    },
+    {
+      "mac": "2C:79:D7:22:DD:60",
+      "channel": 1,
+      "rssi": -72,
+      "ssid": "Orange_Swiatlowod_DD60"
+    },
+    {
+      "mac": "54:AF:97:CA:49:98",
+      "channel": 2,
+      "rssi": -73,
+      "ssid": "TP-Link_4998"
+    },
+    {
+      "mac": "70:0B:01:AD:74:D0",
+      "channel": 1,
+      "rssi": -46,
+      "ssid": "Orange_Swiatlowod_74D0"
+    },
+    {
+      "mac": "60:A4:4C:C7:48:B8",
+      "channel": 6,
+      "rssi": -81,
+      "ssid": "ASUS_Lex"
+    },
+    {
+      "mac": "76:40:BB:60:64:F6",
+      "channel": 6,
+      "rssi": -78,
+      "ssid": "DIRECT-f6-HP M181 LaserJet"
+    }
+  ],
+  "bleDevices": [
+    {
+      "id": "dfc4c9523c1a",
+      "address": "df:c4:c9:52:3c:1a",
+      "rssi": -91,
+      "date": "2022-10-24T14:12:50.704Z"
+    },
+    {
+      "id": "5be32c8a0075",
+      "address": "5b:e3:2c:8a:00:75",
+      "rssi": -87,
+      "date": "2022-10-24T14:12:56.058Z"
+    },
+    {
+      "id": "71eb7b91cd15",
+      "address": "71:eb:7b:91:cd:15",
+      "rssi": -86,
+      "date": "2022-10-24T14:12:55.882Z"
+    },
+    {
+      "id": "04fea11d095b",
+      "address": "04:fe:a1:1d:09:5b",
+      "rssi": -84,
+      "date": "2022-10-24T14:12:56.089Z"
+    },
+    {
+      "id": "ffff100e467a",
+      "address": "ff:ff:10:0e:46:7a",
+      "rssi": -84,
+      "date": "2022-10-24T14:12:51.396Z"
+    },
+    {
+      "id": "d89c67b32c6c",
+      "address": "d8:9c:67:b3:2c:6c",
+      "rssi": -84,
+      "date": "2022-10-24T14:12:56.147Z"
+    },
+    {
+      "id": "ffff100f7d8e",
+      "address": "ff:ff:10:0f:7d:8e",
+      "rssi": -83,
+      "date": "2022-10-24T14:12:55.312Z"
+    },
+    {
+      "id": "e4b1ff4a6590",
+      "address": "e4:b1:ff:4a:65:90",
+      "rssi": -80,
+      "date": "2022-10-24T14:12:50.946Z"
+    },
+    {
+      "id": "fc58fa05aa54",
+      "address": "fc:58:fa:05:aa:54",
+      "rssi": -76,
+      "date": "2022-10-24T14:12:55.813Z"
+    },
+    {
+      "id": "4a04c3da6ddd",
+      "address": "4a:04:c3:da:6d:dd",
+      "rssi": -72,
+      "date": "2022-10-24T14:12:53.066Z"
+    },
+    {
+      "id": "dc0d30000265",
+      "address": "dc:0d:30:00:02:65",
+      "rssi": -69,
+      "date": "2022-10-24T14:12:55.600Z"
+    },
+    {
+      "id": "07ff42fd9797",
+      "address": "07:ff:42:fd:97:97",
+      "rssi": -68,
+      "date": "2022-10-24T14:12:55.817Z"
+    },
+    {
+      "id": "59e18fa5d5ea",
+      "address": "59:e1:8f:a5:d5:ea",
+      "rssi": -67,
+      "date": "2022-10-24T14:12:56.008Z"
+    },
+    {
+      "id": "d3827da1a912",
+      "address": "d3:82:7d:a1:a9:12",
+      "rssi": -66,
+      "date": "2022-10-24T14:12:53.905Z"
+    },
+    {
+      "id": "6736492fa972",
+      "address": "67:36:49:2f:a9:72",
+      "rssi": -65,
+      "date": "2022-10-24T14:12:56.002Z"
+    },
+    {
+      "id": "fc58fa0a39f8",
+      "address": "fc:58:fa:0a:39:f8",
+      "rssi": -63,
+      "date": "2022-10-24T14:12:55.686Z"
+    },
+    {
+      "id": "ffff100e4540",
+      "address": "ff:ff:10:0e:45:40",
+      "rssi": -61,
+      "date": "2022-10-24T14:12:54.922Z"
+    },
+    {
+      "id": "459e553339ee",
+      "address": "45:9e:55:33:39:ee",
+      "rssi": -60,
+      "date": "2022-10-24T14:12:56.138Z"
+    }
+  ],
+  "gpsDevices": {
+    "errors": 0,
+    "processed": 90,
+    "time": null,
+    "lat": null,
+    "lon": null,
+    "speed": null,
+    "track": null,
+    "alt": null,
+    "satsActive": [],
+    "fix": null,
+    "hdop": 99.99,
+    "pdop": 99.99,
+    "vdop": 99.99
+  }
+}

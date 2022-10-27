@@ -1,0 +1,18 @@
+{
+  "name": "raspberrydata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "tsc && node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "copyData": "scp -r pi@192.168.1.54:~/magisterka/data_many ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.0",
+    "typescript": "^4.8.4"
+  }
+}

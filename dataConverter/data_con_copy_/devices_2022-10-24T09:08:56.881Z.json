@@ -1,0 +1,192 @@
+{
+  "cords": {
+    "x": 1.5,
+    "y": 3
+  },
+  "date": "2022-10-24T09:08:56.881Z",
+  "wifiDevices": [
+    {
+      "mac": "70:0B:01:AD:74:D5",
+      "channel": 108,
+      "rssi": -42,
+      "ssid": "Orange_Swiatlowod_74D0"
+    },
+    {
+      "mac": "54:AF:97:CA:49:98",
+      "channel": 2,
+      "rssi": -56,
+      "ssid": "TP-Link_4998"
+    },
+    {
+      "mac": "34:2C:C4:5C:C9:40",
+      "channel": 1,
+      "rssi": -78,
+      "ssid": "UPC0814807"
+    },
+    {
+      "mac": "36:2C:94:5C:C9:40",
+      "channel": 1,
+      "rssi": -77,
+      "ssid": "Wi-Free #InternetUPCNajszybszy"
+    },
+    {
+      "mac": "D8:A7:56:D6:AC:8A",
+      "channel": 11,
+      "rssi": -80,
+      "ssid": "Orange_Swiatlowod_AC8A"
+    },
+    {
+      "mac": "70:0B:01:AD:74:D0",
+      "channel": 1,
+      "rssi": -45,
+      "ssid": "Orange_Swiatlowod_74D0"
+    },
+    {
+      "mac": "92:5C:14:9A:F4:11",
+      "channel": 10,
+      "rssi": -74,
+      "ssid": "Wi-Free #InternetUPCNajszybszy"
+    },
+    {
+      "mac": "90:5C:44:9A:F4:11",
+      "channel": 10,
+      "rssi": -75,
+      "ssid": "UPC39863FE"
+    }
+  ],
+  "bleDevices": [
+    {
+      "id": "5258256d8294",
+      "address": "52:58:25:6d:82:94",
+      "rssi": -96,
+      "date": "2022-10-24T09:09:04.524Z"
+    },
+    {
+      "id": "d8e0e1a05b85",
+      "address": "d8:e0:e1:a0:5b:85",
+      "rssi": -92,
+      "date": "2022-10-24T09:09:06.420Z"
+    },
+    {
+      "id": "fc7f9af9a155",
+      "address": "fc:7f:9a:f9:a1:55",
+      "rssi": -92,
+      "date": "2022-10-24T09:09:03.785Z"
+    },
+    {
+      "id": "d1a45a83a24e",
+      "address": "d1:a4:5a:83:a2:4e",
+      "rssi": -90,
+      "date": "2022-10-24T09:09:05.581Z"
+    },
+    {
+      "id": "ffff100e4540",
+      "address": "ff:ff:10:0e:45:40",
+      "rssi": -88,
+      "date": "2022-10-24T09:09:06.296Z"
+    },
+    {
+      "id": "60f8098a79b8",
+      "address": "60:f8:09:8a:79:b8",
+      "rssi": -86,
+      "date": "2022-10-24T09:09:06.712Z"
+    },
+    {
+      "id": "7e42180b8394",
+      "address": "7e:42:18:0b:83:94",
+      "rssi": -86,
+      "date": "2022-10-24T09:09:06.263Z"
+    },
+    {
+      "id": "0659fa0067ac",
+      "address": "06:59:fa:00:67:ac",
+      "rssi": -85,
+      "date": "2022-10-24T09:09:06.680Z"
+    },
+    {
+      "id": "ffff100f7d8e",
+      "address": "ff:ff:10:0f:7d:8e",
+      "rssi": -84,
+      "date": "2022-10-24T09:09:03.500Z"
+    },
+    {
+      "id": "fbe4aa4a076e",
+      "address": "fb:e4:aa:4a:07:6e",
+      "rssi": -84,
+      "date": "2022-10-24T09:09:06.120Z"
+    },
+    {
+      "id": "dc0d30000265",
+      "address": "dc:0d:30:00:02:65",
+      "rssi": -81,
+      "date": "2022-10-24T09:09:05.764Z"
+    },
+    {
+      "id": "ffff100e467a",
+      "address": "ff:ff:10:0e:46:7a",
+      "rssi": -78,
+      "date": "2022-10-24T09:09:05.779Z"
+    },
+    {
+      "id": "e7ae34092971",
+      "address": "e7:ae:34:09:29:71",
+      "rssi": -73,
+      "date": "2022-10-24T09:08:57.617Z"
+    },
+    {
+      "id": "50366b054029",
+      "address": "50:36:6b:05:40:29",
+      "rssi": -72,
+      "date": "2022-10-24T09:09:06.836Z"
+    },
+    {
+      "id": "fc58fa0a39f8",
+      "address": "fc:58:fa:0a:39:f8",
+      "rssi": -69,
+      "date": "2022-10-24T09:09:06.752Z"
+    },
+    {
+      "id": "d5ab26f4e460",
+      "address": "d5:ab:26:f4:e4:60",
+      "rssi": -57,
+      "date": "2022-10-24T09:09:06.381Z"
+    },
+    {
+      "id": "fc58fa05aa54",
+      "address": "fc:58:fa:05:aa:54",
+      "rssi": -56,
+      "date": "2022-10-24T09:09:06.608Z"
+    }
+  ],
+  "gpsDevices": {
+    "errors": 7,
+    "processed": 6206,
+    "time": null,
+    "lat": null,
+    "lon": null,
+    "speed": null,
+    "track": null,
+    "alt": null,
+    "satsActive": [],
+    "fix": null,
+    "hdop": 99.99,
+    "pdop": 99.99,
+    "vdop": 99.99,
+    "satsVisible": [
+      {
+        "prn": 10,
+        "elevation": null,
+        "azimuth": null,
+        "snr": 21,
+        "status": "tracking"
+      },
+      {
+        "prn": 27,
+        "elevation": null,
+        "azimuth": null,
+        "snr": 14,
+        "status": "tracking"
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "cords": {
+    "x": 6.5,
+    "y": 4
+  },
+  "date": "2022-10-24T14:25:16.162Z",
+  "wifiDevices": [
+    {
+      "mac": "70:0B:01:AD:74:D5",
+      "channel": 108,
+      "rssi": -41,
+      "ssid": "Orange_Swiatlowod_74D0"
+    },
+    {
+      "mac": "92:5C:14:9A:F4:11",
+      "channel": 10,
+      "rssi": -73,
+      "ssid": "Wi-Free #InternetUPCNajszybszy"
+    },
+    {
+      "mac": "54:AF:97:CA:49:98",
+      "channel": 2,
+      "rssi": -73,
+      "ssid": "TP-Link_4998"
+    },
+    {
+      "mac": "2C:79:D7:22:DD:60",
+      "channel": 1,
+      "rssi": -74,
+      "ssid": "Orange_Swiatlowod_DD60"
+    },
+    {
+      "mac": "D8:7D:7F:58:9B:9C",
+      "channel": 6,
+      "rssi": -84,
+      "ssid": "FunBox2-9B9C"
+    },
+    {
+      "mac": "90:5C:44:9A:F4:11",
+      "channel": 10,
+      "rssi": -73,
+      "ssid": "UPC39863FE"
+    },
+    {
+      "mac": "70:0B:01:AD:74:D0",
+      "channel": 11,
+      "rssi": -42,
+      "ssid": "Orange_Swiatlowod_74D0"
+    },
+    {
+      "mac": "76:40:BB:60:64:F6",
+      "channel": 6,
+      "rssi": -81,
+      "ssid": "DIRECT-f6-HP M181 LaserJet"
+    },
+    {
+      "mac": "D8:A7:56:D6:AC:8A",
+      "channel": 6,
+      "rssi": -80,
+      "ssid": "Orange_Swiatlowod_AC8A"
+    }
+  ],
+  "bleDevices": [
+    {
+      "id": "04fea11d095b",
+      "address": "04:fe:a1:1d:09:5b",
+      "rssi": -90,
+      "date": "2022-10-24T14:25:26.146Z"
+    },
+    {
+      "id": "c96e2875824e",
+      "address": "c9:6e:28:75:82:4e",
+      "rssi": -86,
+      "date": "2022-10-24T14:25:21.123Z"
+    },
+    {
+      "id": "c892ab19396f",
+      "address": "c8:92:ab:19:39:6f",
+      "rssi": -85,
+      "date": "2022-10-24T14:25:26.137Z"
+    },
+    {
+      "id": "5265ec6c247d",
+      "address": "52:65:ec:6c:24:7d",
+      "rssi": -85,
+      "date": "2022-10-24T14:25:24.006Z"
+    },
+    {
+      "id": "71eb7b91cd15",
+      "address": "71:eb:7b:91:cd:15",
+      "rssi": -84,
+      "date": "2022-10-24T14:25:26.113Z"
+    },
+    {
+      "id": "fc58fa05aa54",
+      "address": "fc:58:fa:05:aa:54",
+      "rssi": -78,
+      "date": "2022-10-24T14:25:25.670Z"
+    },
+    {
+      "id": "ffff100f7d8e",
+      "address": "ff:ff:10:0f:7d:8e",
+      "rssi": -78,
+      "date": "2022-10-24T14:25:24.465Z"
+    },
+    {
+      "id": "dc0d30000265",
+      "address": "dc:0d:30:00:02:65",
+      "rssi": -77,
+      "date": "2022-10-24T14:25:21.272Z"
+    },
+    {
+      "id": "d89c67b32c6c",
+      "address": "d8:9c:67:b3:2c:6c",
+      "rssi": -77,
+      "date": "2022-10-24T14:25:26.067Z"
+    },
+    {
+      "id": "ffff100e467a",
+      "address": "ff:ff:10:0e:46:7a",
+      "rssi": -71,
+      "date": "2022-10-24T14:25:24.179Z"
+    },
+    {
+      "id": "74ae03a25843",
+      "address": "74:ae:03:a2:58:43",
+      "rssi": -70,
+      "date": "2022-10-24T14:25:25.694Z"
+    },
+    {
+      "id": "6e6e148d5bd0",
+      "address": "6e:6e:14:8d:5b:d0",
+      "rssi": -69,
+      "date": "2022-10-24T14:25:26.099Z"
+    },
+    {
+      "id": "ffff100e4540",
+      "address": "ff:ff:10:0e:45:40",
+      "rssi": -69,
+      "date": "2022-10-24T14:25:25.958Z"
+    },
+    {
+      "id": "6080bb177af3",
+      "address": "60:80:bb:17:7a:f3",
+      "rssi": -68,
+      "date": "2022-10-24T14:25:25.645Z"
+    },
+    {
+      "id": "07ee7b1e92ca",
+      "address": "07:ee:7b:1e:92:ca",
+      "rssi": -67,
+      "date": "2022-10-24T14:25:26.074Z"
+    },
+    {
+      "id": "c29fed92c966",
+      "address": "c2:9f:ed:92:c9:66",
+      "rssi": -66,
+      "date": "2022-10-24T14:25:24.225Z"
+    },
+    {
+      "id": "fc58fa0a39f8",
+      "address": "fc:58:fa:0a:39:f8",
+      "rssi": -62,
+      "date": "2022-10-24T14:25:26.015Z"
+    }
+  ],
+  "gpsDevices": {
+    "errors": 7,
+    "processed": 1250,
+    "time": null,
+    "lat": null,
+    "lon": null,
+    "speed": null,
+    "track": null,
+    "alt": null,
+    "satsActive": [],
+    "fix": null,
+    "hdop": 99.99,
+    "pdop": 99.99,
+    "vdop": 99.99,
+    "satsVisible": [
+      {
+        "prn": 12,
+        "elevation": null,
+        "azimuth": null,
+        "snr": 22,
+        "status": "tracking"
+      }
+    ]
+  }
+}

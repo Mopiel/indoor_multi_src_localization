@@ -1,0 +1,186 @@
+{
+  "cords": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "date": "2022-10-24T13:20:58.367Z",
+  "wifiDevices": [
+    {
+      "mac": "70:0B:01:AD:74:D5",
+      "channel": 108,
+      "rssi": -47,
+      "ssid": "Orange_Swiatlowod_74D0"
+    },
+    {
+      "mac": "92:5C:14:9A:F4:11",
+      "channel": 10,
+      "rssi": -76,
+      "ssid": "Wi-Free #InternetUPCNajszybszy"
+    },
+    {
+      "mac": "54:AF:97:CA:49:98",
+      "channel": 2,
+      "rssi": -66,
+      "ssid": "TP-Link_4998"
+    },
+    {
+      "mac": "90:5C:44:9A:F4:11",
+      "channel": 10,
+      "rssi": -75,
+      "ssid": "UPC39863FE"
+    },
+    {
+      "mac": "36:2C:94:5C:C9:40",
+      "channel": 1,
+      "rssi": -77,
+      "ssid": "Wi-Free #InternetUPCNajszybszy"
+    },
+    {
+      "mac": "70:0B:01:AD:74:D0",
+      "channel": 11,
+      "rssi": -49,
+      "ssid": "Orange_Swiatlowod_74D0"
+    },
+    {
+      "mac": "34:2C:C4:5C:C9:40",
+      "channel": 1,
+      "rssi": -77,
+      "ssid": "UPC0814807"
+    },
+    {
+      "mac": "D8:A7:56:D6:AC:8A",
+      "channel": 6,
+      "rssi": -85,
+      "ssid": "Orange_Swiatlowod_AC8A"
+    },
+    {
+      "mac": "E8:D2:FF:F3:50:E4",
+      "channel": 11,
+      "rssi": -85,
+      "ssid": "Orange_Swiatlowod_50E0-2.4g"
+    }
+  ],
+  "bleDevices": [
+    {
+      "id": "f27722473cea",
+      "address": "f2:77:22:47:3c:ea",
+      "rssi": -91,
+      "date": "2022-10-24T13:20:58.555Z"
+    },
+    {
+      "id": "539cfe95643c",
+      "address": "53:9c:fe:95:64:3c",
+      "rssi": -91,
+      "date": "2022-10-24T13:21:08.161Z"
+    },
+    {
+      "id": "ed69776a5713",
+      "address": "ed:69:77:6a:57:13",
+      "rssi": -91,
+      "date": "2022-10-24T13:21:01.860Z"
+    },
+    {
+      "id": "dc0d30000265",
+      "address": "dc:0d:30:00:02:65",
+      "rssi": -87,
+      "date": "2022-10-24T13:21:07.860Z"
+    },
+    {
+      "id": "ffff100e467a",
+      "address": "ff:ff:10:0e:46:7a",
+      "rssi": -82,
+      "date": "2022-10-24T13:21:03.327Z"
+    },
+    {
+      "id": "ffff100f7d8e",
+      "address": "ff:ff:10:0f:7d:8e",
+      "rssi": -79,
+      "date": "2022-10-24T13:21:06.816Z"
+    },
+    {
+      "id": "ffff100e4540",
+      "address": "ff:ff:10:0e:45:40",
+      "rssi": -79,
+      "date": "2022-10-24T13:21:06.977Z"
+    },
+    {
+      "id": "5db37d234346",
+      "address": "5d:b3:7d:23:43:46",
+      "rssi": -79,
+      "date": "2022-10-24T13:21:07.532Z"
+    },
+    {
+      "id": "fc58fa0a39f8",
+      "address": "fc:58:fa:0a:39:f8",
+      "rssi": -72,
+      "date": "2022-10-24T13:21:08.269Z"
+    },
+    {
+      "id": "622b6570d0d8",
+      "address": "62:2b:65:70:d0:d8",
+      "rssi": -68,
+      "date": "2022-10-24T13:21:07.634Z"
+    },
+    {
+      "id": "450bbce6241e",
+      "address": "45:0b:bc:e6:24:1e",
+      "rssi": -64,
+      "date": "2022-10-24T13:21:08.260Z"
+    },
+    {
+      "id": "72a54cccdb5a",
+      "address": "72:a5:4c:cc:db:5a",
+      "rssi": -63,
+      "date": "2022-10-24T13:21:08.145Z"
+    },
+    {
+      "id": "1a058ed6359c",
+      "address": "1a:05:8e:d6:35:9c",
+      "rssi": -56,
+      "date": "2022-10-24T13:21:08.302Z"
+    },
+    {
+      "id": "f8c322e5c18a",
+      "address": "f8:c3:22:e5:c1:8a",
+      "rssi": -56,
+      "date": "2022-10-24T13:21:06.850Z"
+    },
+    {
+      "id": "fc58fa05aa54",
+      "address": "fc:58:fa:05:aa:54",
+      "rssi": -55,
+      "date": "2022-10-24T13:21:08.293Z"
+    }
+  ],
+  "gpsDevices": {
+    "errors": 7,
+    "processed": 836,
+    "time": null,
+    "lat": null,
+    "lon": null,
+    "speed": null,
+    "track": null,
+    "alt": null,
+    "satsActive": [],
+    "fix": null,
+    "hdop": 99.99,
+    "pdop": 99.99,
+    "vdop": 99.99,
+    "satsVisible": [
+      {
+        "prn": 8,
+        "elevation": null,
+        "azimuth": null,
+        "snr": 22,
+        "status": "tracking"
+      },
+      {
+        "prn": 30,
+        "elevation": null,
+        "azimuth": null,
+        "snr": 26,
+        "status": "tracking"
+      }
+    ]
+  }
+}

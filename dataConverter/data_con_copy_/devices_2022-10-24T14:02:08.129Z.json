@@ -1,0 +1,185 @@
+{
+  "cords": {
+    "x": 4.5,
+    "y": 4.5
+  },
+  "date": "2022-10-24T14:02:08.129Z",
+  "wifiDevices": [
+    {
+      "mac": "70:0B:01:AD:74:D5",
+      "channel": 108,
+      "rssi": -30,
+      "ssid": "Orange_Swiatlowod_74D0"
+    },
+    {
+      "mac": "92:5C:14:9A:F4:11",
+      "channel": 10,
+      "rssi": -67,
+      "ssid": "Wi-Free #InternetUPCNajszybszy"
+    },
+    {
+      "mac": "54:AF:97:CA:49:98",
+      "channel": 2,
+      "rssi": -74,
+      "ssid": "TP-Link_4998"
+    },
+    {
+      "mac": "90:5C:44:9A:F4:11",
+      "channel": 10,
+      "rssi": -66,
+      "ssid": "UPC39863FE"
+    },
+    {
+      "mac": "70:0B:01:AD:74:D0",
+      "channel": 11,
+      "rssi": -44,
+      "ssid": "Orange_Swiatlowod_74D0"
+    },
+    {
+      "mac": "36:2C:94:5C:C9:40",
+      "channel": 1,
+      "rssi": -80,
+      "ssid": "Wi-Free #InternetUPCNajszybszy"
+    },
+    {
+      "mac": "D8:A7:56:D6:AC:8A",
+      "channel": 6,
+      "rssi": -77,
+      "ssid": "Orange_Swiatlowod_AC8A"
+    },
+    {
+      "mac": "E8:D2:FF:F3:50:E4",
+      "channel": 11,
+      "rssi": -82,
+      "ssid": "Orange_Swiatlowod_50E0-2.4g"
+    }
+  ],
+  "bleDevices": [
+    {
+      "id": "cacb8cd8e65d",
+      "address": "ca:cb:8c:d8:e6:5d",
+      "rssi": -92,
+      "date": "2022-10-24T14:02:13.354Z"
+    },
+    {
+      "id": "6dc9c8ab3f8c",
+      "address": "6d:c9:c8:ab:3f:8c",
+      "rssi": -88,
+      "date": "2022-10-24T14:02:17.886Z"
+    },
+    {
+      "id": "d89c67b32c6c",
+      "address": "d8:9c:67:b3:2c:6c",
+      "rssi": -85,
+      "date": "2022-10-24T14:02:18.015Z"
+    },
+    {
+      "id": "c9a2aede3b9e",
+      "address": "c9:a2:ae:de:3b:9e",
+      "rssi": -85,
+      "date": "2022-10-24T14:02:15.810Z"
+    },
+    {
+      "id": "6c732e8b038c",
+      "address": "6c:73:2e:8b:03:8c",
+      "rssi": -83,
+      "date": "2022-10-24T14:02:14.371Z"
+    },
+    {
+      "id": "66c3d9847c95",
+      "address": "66:c3:d9:84:7c:95",
+      "rssi": -79,
+      "date": "2022-10-24T14:02:17.805Z"
+    },
+    {
+      "id": "07ff42fd9797",
+      "address": "07:ff:42:fd:97:97",
+      "rssi": -76,
+      "date": "2022-10-24T14:02:17.949Z"
+    },
+    {
+      "id": "dc0d30000265",
+      "address": "dc:0d:30:00:02:65",
+      "rssi": -74,
+      "date": "2022-10-24T14:02:17.069Z"
+    },
+    {
+      "id": "fc58fa05aa54",
+      "address": "fc:58:fa:05:aa:54",
+      "rssi": -73,
+      "date": "2022-10-24T14:02:17.115Z"
+    },
+    {
+      "id": "fc58fa0a39f8",
+      "address": "fc:58:fa:0a:39:f8",
+      "rssi": -71,
+      "date": "2022-10-24T14:02:18.005Z"
+    },
+    {
+      "id": "ffff100e467a",
+      "address": "ff:ff:10:0e:46:7a",
+      "rssi": -70,
+      "date": "2022-10-24T14:02:16.878Z"
+    },
+    {
+      "id": "d3827da1a912",
+      "address": "d3:82:7d:a1:a9:12",
+      "rssi": -69,
+      "date": "2022-10-24T14:02:14.871Z"
+    },
+    {
+      "id": "ffff100e4540",
+      "address": "ff:ff:10:0e:45:40",
+      "rssi": -69,
+      "date": "2022-10-24T14:02:18.000Z"
+    },
+    {
+      "id": "4a04c3da6ddd",
+      "address": "4a:04:c3:da:6d:dd",
+      "rssi": -68,
+      "date": "2022-10-24T14:02:15.678Z"
+    },
+    {
+      "id": "ffff100f7d8e",
+      "address": "ff:ff:10:0f:7d:8e",
+      "rssi": -66,
+      "date": "2022-10-24T14:02:14.336Z"
+    },
+    {
+      "id": "6736492fa972",
+      "address": "67:36:49:2f:a9:72",
+      "rssi": -54,
+      "date": "2022-10-24T14:02:17.956Z"
+    },
+    {
+      "id": "59e18fa5d5ea",
+      "address": "59:e1:8f:a5:d5:ea",
+      "rssi": -51,
+      "date": "2022-10-24T14:02:17.750Z"
+    }
+  ],
+  "gpsDevices": {
+    "errors": 7,
+    "processed": 265,
+    "time": null,
+    "lat": null,
+    "lon": null,
+    "speed": null,
+    "track": null,
+    "alt": null,
+    "satsActive": [],
+    "fix": null,
+    "hdop": 99.99,
+    "pdop": 99.99,
+    "vdop": 99.99,
+    "satsVisible": [
+      {
+        "prn": 10,
+        "elevation": null,
+        "azimuth": null,
+        "snr": 21,
+        "status": "tracking"
+      }
+    ]
+  }
+}
